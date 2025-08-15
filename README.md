@@ -1,3 +1,6 @@
+# LearnLoom
+
+
 
 # LearnLoom
 
@@ -51,7 +54,7 @@ Online Study Companion web app using Vue.js and AWS Serverless architecture.
 4. API Gateway exposes endpoints for CRUD operations (quizzes, goals, schedules).
 5. CloudFront serves updated content; SNS/SES sends reminders.
 6. IAM secures all resources; CloudWatch logs and monitors activity.
-
+![LearnLoom](public/learnloom.png)
 ## Getting Started
 1. Install dependencies: `npm install`
 2. Run development server: `npm run dev`
